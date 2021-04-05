@@ -39,8 +39,8 @@ The application can be invoked with `node start`.
 
 ## Solution:
 
-[Link to Demo Video]()
-![employee_tracker gif]()
+[Link to Demo Video](https://drive.google.com/file/d/1dhv4uijaVFhUtv09uAT8UfeeBKsnEx63/view)
+![employee_tracker gif](media/employee-tracker-gif.gif)
 
 ## Author
 
