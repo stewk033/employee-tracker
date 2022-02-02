@@ -39,7 +39,7 @@ The application can be invoked with `node app`.
 
 ## Solution:
 
-![Demo Video](media/employee-tracker-walkthrough.mp4)
+[Link to Demo Video](https://youtu.be/WWaC_4TFLXY)
 
 ![employee_tracker gif](media/employee-tracker-gif.gif)
 
