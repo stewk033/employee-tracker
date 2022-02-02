@@ -35,7 +35,7 @@ This application is a command-line interface used to manage a companies employee
 
 ## Installation:
 In the command line, first run `npm install` to install the npm package dependencies.
-The application can be invoked with `node start`.
+The application can be invoked with `node app`.
 
 ## Solution:
 

@@ -6,7 +6,7 @@ const app = express();
 const inquirer = require ("inquirer");
 const cTable = require('console.table');
  
-// create the connection to database
+// create the database connection
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
@@ -74,7 +74,7 @@ function inquire() {
                 );
                 inquire()
                 break;
-            // option to add a department
+                // option to add a department
                 case "Add a Department":
                     inquirer.prompt([
                         {
@@ -206,7 +206,7 @@ function inquire() {
                                 //console.log(values);
                                 connection.query(sql, values,
                                   function (err, res,) {
-                                  //  if (err) throw (err);
+                                  // if (err) throw (err);
                                     console.log(`You have updated ${name}'s role to ${role}.`)
                                     promptUser();
                                   })
